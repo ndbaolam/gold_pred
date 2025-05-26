@@ -1,0 +1,7 @@
+[core]
+    remote = goldpred
+['remote "goldpred"']
+    url = gdrive://1toSbaf4GqKFbVFqKicyZO20ZKMheEXtx
+    gdrive_acknowledge_abuse = true
+    gdrive_service_account_json_file_path = ../prefab-gift-457313-r5-b918661fd4d0.json
+    gdrive_use_service_account = true
